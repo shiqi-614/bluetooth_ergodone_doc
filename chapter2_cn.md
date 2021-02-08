@@ -87,9 +87,9 @@
 
 然后点Arduino IDE左上角的"上传"按钮, 就可以将代码上传到主控芯片里了.
 
-在右手的示例程序里[right_hand.ino](../examples/right_hand/right_hand.ino), 可以通过ERGODONE_KEYMAP去定义自己的键盘布局, 支持多个键盘布局的切换, 比如我定义了三层, 第三层是鼠标的操作. 还可以自己定义一些宏操作, 比如在第二层里自定义了FN6, 按下这个键, 就会输出Hello, World. 更多玩法, 参考[tmk keymap](https://github.com/tmk/tmk_keyboard/blob/master/tmk_core/doc/keymap.md).
+在右手的示例程序里[right_hand.ino](https://github.com/shiqi-614/bluetooth_ergodone/blob/master/examples/right_hand/right_hand.ino), 可以通过ERGODONE_KEYMAP去定义自己的键盘布局, 支持多个键盘布局的切换, 比如我定义了三层, 第三层是鼠标的操作. 还可以自己定义一些宏操作, 比如在第二层里自定义了FN6, 按下这个键, 就会输出Hello, World. 更多玩法, 参考[tmk keymap](https://github.com/tmk/tmk_keyboard/blob/master/tmk_core/doc/keymap.md).
 
-并且也是在右手的程序里[right_hand.ino](../examples/right_hand/right_hand.ino)通过各种hook函数控制LED灯.
+并且也是在右手的程序里[right_hand.ino](https://github.com/shiqi-614/bluetooth_ergodone/blob/master/examples/right_hand/right_hand.ino)通过各种hook函数控制LED灯.
 
 我自己定义键盘布局里, 左手CAPS_LOCK按键的位置被我换了, 按成按着的时候, 会切换到第三层, 第三层是鼠标操作, 在第三层, 按下HJKL会移动鼠标. 原来Z键的位置, 被我换成按下切换到第二层, 这时候HJKL就变成方向键, 原来的Z向右移了一位.
 

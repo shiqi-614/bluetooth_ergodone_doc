@@ -4,6 +4,8 @@
 
 由于众所周知的原因, github上的图片不能访问, 可以把本项目下载到本地, 然后用markdown编辑器打开.
 
+或者移步我在CSDN上的博客[地址](https://blog.csdn.net/shiqi_614/article/details/113758502)
+
 改造流程参考教程:
 * [为什么要做一把蓝牙机械键盘](./chapter1_cn.md)
 * [用到的东西](./chapter2_cn.md)
