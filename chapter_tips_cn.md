@@ -2,7 +2,7 @@
 
 
 ## 系列文章列表
-* [为什么要做一把蓝牙机械键盘](./chapter1_cn.md)
+* [为什么要自己做一把蓝牙机械键盘](./chapter1_cn.md)
 * [用到的东西](./chapter2_cn.md)
 * [制作左手](./chapter3_cn.md)
 * [设置左右手蓝牙BLE](./chapter4_cn.md)

@@ -7,7 +7,7 @@
 或者移步我在CSDN上的博客[地址](https://blog.csdn.net/shiqi_614/article/details/113758502)
 
 改造流程参考教程:
-* [为什么要做一把蓝牙机械键盘](./chapter1_cn.md)
+* [为什么要自己做一把蓝牙机械键盘](./chapter1_cn.md)
 * [用到的东西](./chapter2_cn.md)
 * [制作左手](./chapter3_cn.md)
 * [设置左右手蓝牙BLE](./chapter4_cn.md)
