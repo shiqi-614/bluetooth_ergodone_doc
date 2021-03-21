@@ -21,7 +21,7 @@
 ![焊接工具](./pic/tools.jpg)
 
 #### PCB板等
-* **PCB板**: github上有PCB图纸[ErgoDone](https://github.com/ktec-hq/ErgoDone), 需要找淘宝店打印, 用软件[kicad](https://kicad.org/)打开具体的文件查看PCB图纸
+* **PCB板**: github上有PCB图纸[ErgoDone](https://github.com/shiqi-614/ErgoDone), 需要找淘宝店打印, 用软件[kicad](https://kicad.org/)打开具体的文件查看PCB图纸
 * **1n4148二极管 * 76**: 规定电路板上电流的走向, 避免按一个键, 电流走到其他路径, 导致其他按键也认为被触发了, 可以多买些.
 ![PCB](./pic/pcb.jpg)
 
